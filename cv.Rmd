@@ -6,4 +6,4 @@ title: "CV"
 
 ## Header
 
-![Caption](/MaxwellGrossmanResume.pdf)
+![](MaxwellGrossmanResume.pdf)
