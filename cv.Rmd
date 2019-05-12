@@ -6,4 +6,4 @@ title: "CV"
 
 ## Header
 
-![](MaxwellGrossmanResume.pdf){width=99% height=1500}
+![](MaxwellGrossmanResume.pdf){width=99% height=1200}
