@@ -8,7 +8,7 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "About"
-      icon: fa-user 
+      con: fa-user 
       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
