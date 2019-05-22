@@ -2,4 +2,28 @@
 title: "Some Projects I have done"
 ---
 
-More to come
+
+# I'll Be Uploading more projects over the next couple of days
+
+
+
+<a href="https://github.com/maxperryg/Grocery_List_Android_App" class="download" title="View This Project on Github">View This Project on Github</a>
+![](Images/GroceryAppDemo.gif) 
+
+
+
+
+
+
+
+<a href="https://github.com/maxperryg/Tip_Calculator_Android_App" class="download" title="View This Project on Github">View This Project on Github</a>
+![](Images/TipCalculatorAppDemo.gif)
+
+
+
+
+
+
+
+<a href="https://github.com/maxperryg/Vimeo_Chrome_Extension" class="download" title="View This Project on Github">View This Project on Github</a>
+![](Images/SpeedButtonScreenShot.png)
