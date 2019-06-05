@@ -1,8 +1,0 @@
----
-title: "CV"
----
-
-<a href="MaxwellGrossmanResume.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
-
-
-![](MaxwellGrossmanResume.pdf#){width=99% height=1200}
