@@ -2,3 +2,7 @@
 .carousel-inner > .item > a > img {
   margin: auto;
 }
+.carousel-caption > p > span{
+  background-color: black;
+  padding: 10px;
+}
