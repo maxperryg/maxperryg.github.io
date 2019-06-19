@@ -2,7 +2,14 @@
 .carousel-inner > .item > a > img {
   margin: auto;
 }
-.carousel-caption > p > span{
+.carousel-caption > p > span {
   background-color: black;
   padding: 10px;
+}
+.img-responsive{
+  width: 50%;
+  margin: auto;
+}
+.row{
+  margin: 10px;
 }
