@@ -82,8 +82,12 @@
       s1.charset='UTF-8';
       s1.setAttribute('crossorigin','*');
       s0.parentNode.insertBefore(s1,s0);})();
-      document.getElementsByTagName("iframe")[0].style.width = "100%"
-      document.getElementsByTagName("iframe")[0].style.height = "700px"
+      Tawk_API = Tawk_API || {};
+      Tawk_API.onLoad = function(){
+        document.getElementsByTagName("iframe")[0].style.width = "100%"
+        document.getElementsByTagName("iframe")[0].style.height = "700px"
+      };
+
     </script>
     <!--End of Tawk.to Script-->
   </body>
