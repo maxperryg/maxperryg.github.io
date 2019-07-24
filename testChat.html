@@ -85,8 +85,9 @@
       Tawk_API = Tawk_API || {};
       Tawk_API.onLoad = function(){
         // alert("loaded");
+        document.getElementsByTagName("iframe")[0].style.position = "absolute";
         document.getElementsByTagName("iframe")[0].style.width = "100%";
-        document.getElementsByTagName("iframe")[0].style.height = "700px";
+        document.getElementsByTagName("iframe")[0].style.height = "100%";
       };
 
     </script>
